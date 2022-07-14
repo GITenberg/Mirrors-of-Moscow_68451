@@ -1,0 +1,41 @@
+_repo: Mirrors-of-Moscow_68451
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cesare, Oscar Edward
+    aliases:
+    - Cesare, Oscar E.
+    - Cesare
+    birthdate: 1885
+    deathdate: 1948
+    gutenberg_agent_id: '41139'
+    url: http://www.gutenberg.org/2009/agents/41139
+    wikipedia: https://en.wikipedia.org/wiki/Oscar_Cesare
+creator:
+  author:
+    agent_name: Bryant, Louise Stevens
+    alias: Bryant, Louise Frances Stevens
+    birthdate: 1885
+    deathdate: 1959
+    gutenberg_agent_id: '33881'
+    url: http://www.gutenberg.org/2009/agents/33881
+description: ''
+gutenberg_issued: '2022-07-03'
+identifiers:
+  gutenberg: '68451'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015058017107
+pgterms:marc905: 20201109050716bryant
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Tim Lindell, Martin Pettit Northern State University and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This book was produced from
+  images made available by the HathiTrust Digital Library.)
+publication_note: United States :Thomas Seltzer,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mirrors of Moscow
+url: http://www.gutenberg.org/ebooks/68451
