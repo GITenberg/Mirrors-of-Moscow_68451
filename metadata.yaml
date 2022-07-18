@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '41139'
     url: http://www.gutenberg.org/2009/agents/41139
     wikipedia: https://en.wikipedia.org/wiki/Oscar_Cesare
+covers:
+- cover_type: archival
+  image_path: 68451-h/images/cover.jpg
 creator:
   author:
     agent_name: Bryant, Louise Stevens
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '33881'
     url: http://www.gutenberg.org/2009/agents/33881
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68451#Mirrors-of-Moscow
 gutenberg_issued: '2022-07-03'
 identifiers:
   gutenberg: '68451'
